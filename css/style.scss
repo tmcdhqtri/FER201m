@@ -72,7 +72,7 @@ body{
     z-index: 1;
 }
 
-.model-header{
+.modal-header{
     background-color: $background-dark;
     color:floralwhite;
     .close{
@@ -80,6 +80,6 @@ body{
     }
 }
 
-.model-body{
+.modal-body{
     background-color: $background-light;
 }
