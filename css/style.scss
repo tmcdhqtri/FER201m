@@ -71,3 +71,15 @@ body{
     bottom: 0px;
     z-index: 1;
 }
+
+.model-header{
+    background-color: $background-dark;
+    color:floralwhite;
+    .close{
+        color:floralwhite;
+    }
+}
+
+.model-body{
+    background-color: $background-light;
+}
